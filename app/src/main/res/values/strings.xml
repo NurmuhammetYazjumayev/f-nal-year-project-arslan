@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ars Emlak</string>
+    <string name="facebook">Facebook\n</string>
+    <string name="twitter">Twitter</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="instagram">instagram</string>
+    <string name="profile">Profile</string>
+    <string name="email">Email\n</string>
+</resources>
